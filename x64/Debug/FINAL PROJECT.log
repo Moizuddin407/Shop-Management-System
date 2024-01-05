@@ -1,0 +1,3 @@
+﻿  MAIN_CODE.cpp
+C:\Users\dell\Downloads\FINAL PROJECT\MAIN_CODE.cpp(513,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  FINAL PROJECT.vcxproj -> C:\Users\dell\Downloads\FINAL PROJECT\x64\Debug\FINAL PROJECT.exe
